@@ -3,22 +3,22 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { ConnectedNodes as RCN, ConnectedNodesProvider } from '../src/index';
 
+const node: React.CSSProperties = {
+  backgroundColor: '#1864AB',
+  color: '#fff',
+  fontFamily: 'monospace',
+  textTransform: 'uppercase',
+  fontSize: 18,
+  padding: 16,
+  borderRadius: 16,
+};
+
+const stroke = {
+  ['stroke.color']: '#444',
+  ['stroke.width']: 2,
+};
+
 const App = () => {
-  const node: React.CSSProperties = {
-    backgroundColor: '#1864AB',
-    color: '#fff',
-    fontFamily: 'monospace',
-    textTransform: 'uppercase',
-    fontSize: 18,
-    padding: 16,
-    borderRadius: 16,
-  };
-
-  const stroke = {
-    ['stroke.color']: '#444',
-    ['stroke.width']: 2,
-  };
-
   return (
     <ConnectedNodesProvider>
       <RCN.Container
