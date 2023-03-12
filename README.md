@@ -7,7 +7,7 @@ Simple graph engine for react.
 ## Installation
 
 ```bash
-npm install react-connected-ndoes
+npm install react-connected-nodes
 ```
 
 ## Usage
