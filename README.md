@@ -10,9 +10,9 @@ npm install react-connected-nodes
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss1.png)
-![Screenshot 2](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss2.png)
-![Screenshot 3](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss3.png)
+![Screenshot 1](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/screenshots/ss1.png)
+![Screenshot 2](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/screenshots/ss2.png)
+![Screenshot 3](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/screenshots/ss3.png)
 
 ## Usage
 
