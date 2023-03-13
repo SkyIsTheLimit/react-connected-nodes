@@ -2,13 +2,17 @@
 
 Simple graph engine for react.
 
-![Screenshot](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/screenshot.png)
-
 ## Installation
 
 ```bash
 npm install react-connected-nodes
 ```
+
+## Screenshots
+
+![Screenshot 1](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss1.png)
+![Screenshot 2](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss2.png)
+![Screenshot 3](https://github.com/SkyIsTheLimit/react-connected-nodes/raw/main/example/ss3.png)
 
 ## Usage
 
