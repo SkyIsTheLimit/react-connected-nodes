@@ -2,6 +2,8 @@
 
 Simple graph engine for react.
 
+Here's a [Demo](https://codesandbox.io/s/react-connected-nodes-demo-5116b3)
+
 ## Installation
 
 ```bash
