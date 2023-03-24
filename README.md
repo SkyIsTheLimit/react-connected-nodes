@@ -22,7 +22,7 @@ The <code>ConnectedNodesProvider</code> is needed to set up the graph engine. Ne
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { ConnectedNodes as RCN, ConnectedNodesProvider } from '../src/index';
+import { ConnectedNodes as RCN, ConnectedNodesProvider } from 'react-connected-nodes';
 
 const node: React.CSSProperties = {
   backgroundColor: '#1864AB',
